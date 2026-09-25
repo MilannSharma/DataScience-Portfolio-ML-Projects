@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-> These are data-science projects I built early in my career (around 2016). If you're starting out — learning the fundamentals or putting together your own portfolio — I hope you find them a useful reference. As of 2026 I've refreshed the whole repository so every notebook still runs top-to-bottom on a current **Python 3.14** stack. For my current work in AI engineering (LLM agents, RAG, and applied ML), see **[sajalsharma.com](https://sajalsharma.com)**.
+> These are data-science projects I built early in my career (around 2016). If you're starting out — learning the fundamentals or putting together your own portfolio — I hope you find them a useful reference. As of 2026 I've refreshed the whole repository so every notebook still runs top-to-bottom on a current **Python 3.14** stack. For my current work in AI engineering (LLM agents, RAG, and applied ML)
 
 A collection of data-science projects — completed for academic, self-learning, and hobby purposes — presented as Jupyter notebooks, plus a few R analyses published on RPubs.
 
@@ -79,8 +79,7 @@ Most notebooks read the small datasets under `data/`. Two fetch their data on fi
 
 The full R portfolio index is [here](https://rpubs.com/sajal_sharma/).
 
-Questions or collaboration? Reach me at contact@sajalsharma.com, or see what I am working on now at [sajalsharma.com](https://sajalsharma.com).
+Questions or collaboration? 
+DM me!
 
 ### Support
-
-If this repo helped you or gave you ideas for your own portfolio, you can [buy me a coffee](https://buymeacoffee.com/sajals). ❤️
